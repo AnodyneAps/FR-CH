@@ -556,20 +556,52 @@
                           {%- assign quantity_id = 'product-' | append: product.id -%}
 
                           {%- if section.settings.quantity_enabled and settings.custom_quantity_breaks -%}
-                            <!-- <label class="inline-label" for="{{ quantity_id }}" {% if section.settings.quantity_enabled == false and settings.custom_quantity_breaks %}hidden {% endif %}>{{ 'products.product.quantity' | t }}</label><br> -->
+                            <label class="inline-label" for="{{ quantity_id }}" {% if section.settings.quantity_enabled == false and settings.custom_quantity_breaks %}hidden {% endif %}>{{ 'products.product.quantity' | t }}</label><br>
+                                        <!-- manual Qb check start -->
+                                        {% if collection.handle == "posture-shirt" or product.handle contains "womens-posture-shirt" or product.handle contains "mens-posture-shirt" %}
+                                        {%- render "a3-posture-shirt-radios" -%}
+                                        {%- elsif  product.handle ==  "soutien-dorsal-comfort" -%}
+                                        {%- render "a2-comfort-plus-radios" -%}
+                                        {%- elsif  product.handle ==  "soutien-dorsal-basic" -%}
+                                        {%- render "a1-basic-brace-radios" -%}
+                                        {%- elsif  product.handle == "soutien-dorsal-premium" -%}
+                                        {%- render "a4-premium-brace-radios" -%}
+                                        {%- elsif  product.handle ==  "ceinture-lombaire" -%}
+                                        {%- render "a5-backbrace-radios" -%}
+                                        {%- elsif  product.handle ==  "anodyne-bra" -%}
+                                        {%- render "a6-bh-radios" -%}
+                                        {%- endif -%}
+                                    <!-- manual Qb check end  -->
 
                           {%- endif -%}
 
                           {%- render "dbtfy-inventory-quantity", product: product -%}
                           {%- if section.settings.quantity_enabled -%}
                             <!-- {%- render "quantity-selector", type: "product", id: quantity_id -%} -->
+
+                                    <!-- Quantity selecter check start -->
+                                    {% if collection.handle == "posture-shirt" or product.handle contains "womens-posture-shirt" or product.handle contains "mens-posture-shirt" %}
+                                    {%- assign hide_quantity_box = false -%}
+                                    {%- elsif  product.handle ==  "soutien-dorsal-comfort" -%}
+                                            {%- assign hide_quantity_box = false -%}
+                                    {%- elsif  product.handle ==  "soutien-dorsal-basic" -%}
+                                            {%- assign hide_quantity_box = false -%}
+                                    {%- elsif  product.handle ==  "soutien-dorsal-premium" -%}
+                                            {%- assign hide_quantity_box = false -%}
+                                    {%- elsif  product.handle == "ceinture-lombaire" -%}
+                                            {%- assign hide_quantity_box = false -%}
+                                  {%- elsif  product.handle == "anodyne-bra" -%}
+                                            {%- assign hide_quantity_box = false -%}
+                                    {%- else -%}
+                                        {%- render "quantity-selector", type: "product", id: quantity_id -%}
+                                    {%- endif -%}
+                                    <!-- Quantity selecter check end  -->
                   
                           {%- elsif settings.custom_quantity_breaks -%}
                   
                        {%- endif -%}
                     </div>
                   {%- endif -%}
-        
 									<!-- size-chart -->
 									{%- if show_sizeGuide == true -%}
 									<div class="custom_size_chart">
