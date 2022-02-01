@@ -1,0 +1,251 @@
+{
+  "sections": {
+    "1636011126d2c47b6d": {
+      "type": "HTML-columns",
+      "blocks": {
+        "1636011126d2c47b6d-0": {
+          "type": "HTML_column",
+          "settings": {
+            "wrapper_size": "",
+            "html_area_1": "<div style=\"margin:-40px 20px -60px 20px\">\n<h1>Exercices d’étirement du dos et de la nuque<\/h1>\n<p>Vous souffrez de douleurs cervicales ou de tensions dans les épaules et le dos ? En collaboration avec le chiropracteur et propriétaire de clinique Michael Justad de JustHealth, nous avons réuni dans la vidéo ci-dessous 5 exercices simples à effectuer au bureau ou chez vous. Ils ne vous prendront que 5 minutes de votre temps.<\/p>\n<\/div>",
+            "column_width_1": 12,
+            "column_width_mobile_1": 12,
+            "text_alignment_1": "text-center",
+            "html_area_2": "",
+            "column_width_2": 4,
+            "column_width_mobile_2": 12,
+            "text_alignment_2": "text-center",
+            "html_area_3": "",
+            "column_width_3": 4,
+            "column_width_mobile_3": 12,
+            "text_alignment_3": "text-center",
+            "html_area_4": "",
+            "column_width_4": 4,
+            "column_width_mobile_4": 12,
+            "text_alignment_4": "text-center",
+            "html_area_5": "",
+            "column_width_5": 4,
+            "column_width_mobile_5": 12,
+            "text_alignment_5": "text-center",
+            "html_area_6": "",
+            "column_width_6": 4,
+            "column_width_mobile_6": 12,
+            "text_alignment_6": "text-center",
+            "html_area_7": "",
+            "column_width_7": 4,
+            "column_width_mobile_7": 12,
+            "text_alignment_7": "text-center",
+            "html_area_8": "",
+            "column_width_8": 4,
+            "column_width_mobile_8": 12,
+            "text_alignment_8": "text-center",
+            "html_area_9": "",
+            "column_width_9": 4,
+            "column_width_mobile_9": 12,
+            "text_alignment_9": "text-center",
+            "html_area_10": "",
+            "column_width_10": 4,
+            "column_width_mobile_10": 12,
+            "text_alignment_10": "text-center"
+          }
+        }
+      },
+      "block_order": [
+        "1636011126d2c47b6d-0"
+      ],
+      "settings": {
+        "show_on_desktop": true,
+        "show_on_mobile": true,
+        "title": "",
+        "subtitle": "",
+        "section_style": "section-blank"
+      }
+    },
+    "163600963681aed54c": {
+      "type": "featured-video",
+      "blocks": {
+        "163600963681aed54c-0": {
+          "type": "video",
+          "settings": {
+            "video_cover_image": "shopify:\/\/shop_images\/Cover_video.jpg",
+            "video_url": "https:\/\/youtu.be\/RozA9sXOX3o",
+            "animated_button": false
+          }
+        }
+      },
+      "block_order": [
+        "163600963681aed54c-0"
+      ],
+      "settings": {
+        "show_on_desktop": true,
+        "show_on_mobile": true,
+        "full_width": false,
+        "title": "",
+        "subtitle": "",
+        "section_style": "section-blank"
+      }
+    },
+    "16363589409f6f02aa": {
+      "type": "featured-row",
+      "settings": {
+        "show_on_desktop": true,
+        "show_on_mobile": true,
+        "image": "shopify:\/\/shop_images\/Working_posture_1296x1296_5c41df7c-f75d-419f-8961-490c16d295b4.jpg",
+        "section_style": "section-blank",
+        "text_size": "large",
+        "image_alignement": "right",
+        "text_alignment": "",
+        "title": "Optimisez votre posture assise au bureau",
+        "text": "<p>Si vous souffrez de tensions au niveau du cou, des épaules ou du dos parce que votre travail est principalement sédentaire, ces 5 exercices de relaxation devraient vous permettre de les soulager et de les prévenir dans votre quotidien. Il peut également se révéler utile d'examiner les moyens d'optimiser votre posture lorsque vous êtes assis à un bureau.<\/p><p><\/p><p><strong>Suivez les conseils suivants pour  adopter une posture correcte à votre bureau :<\/strong><\/p><p>• Asseyez-vous avec le dos droit, poussez votre bassin vers l’avant et tirez vos épaules vers l’arrière. Vue de côté, la colonne vertébrale doit former un S.<\/p><p>• Les jambes et les genoux doivent former un angle de 90 degrés ou plus.<\/p><p>• Les deux coudes doivent reposer sur le bureau ou l'accoudoir à angle droit avec le corps, ce qui permet aux épaules de se détendre.<\/p><p>• L'écran de l'ordinateur doit être à la hauteur des yeux.<\/p><p>• Changez fréquemment de position de travail et alternez entre la position debout et la position assise.<\/p>",
+        "button_style": "btn--primary",
+        "button_label": "",
+        "button_link": ""
+      }
+    },
+    "163636123033606d35": {
+      "type": "featured-products",
+      "settings": {
+        "show_on_desktop": true,
+        "show_on_mobile": true,
+        "title": "Best-sellers",
+        "subtitle": "",
+        "section_style": "section-default",
+        "home_featured_products": "tous-les-produits",
+        "rows": "2",
+        "desktop_grid": "4",
+        "mobile_grid": "2",
+        "show_view_all": false,
+        "button_label": "View all",
+        "button_link": "",
+        "button_style": "btn-outline-primary",
+        "slider_related_products": true,
+        "arrows": true,
+        "dots": true,
+        "autoplay": false,
+        "autoplayspeed": 5
+      }
+    },
+    "16363636370262f21e": {
+      "type": "HTML-columns",
+      "blocks": {
+        "16363636370262f21e-0": {
+          "type": "HTML_column",
+          "settings": {
+            "wrapper_size": "",
+            "html_area_1": "<div style=\"margin-top:-30px\">\n<h2>Produits correcteurs de posture pour le bureau<\/h2>\n<p>Chez Anodyne®, nous proposons des produits pour la correction de la posture, la relaxation et la santé générale du corps. Nos produits visent à soutenir le corps et à accroître la conscience de la posture dans la vie quotidienne, ainsi qu'à soulager les douleurs et les tensions pour que vous profitiez d’une meilleure qualité de vie.<\/p>\n<p><\/p>\n<\/div>",
+            "column_width_1": 12,
+            "column_width_mobile_1": 12,
+            "text_alignment_1": "text-center",
+            "html_area_2": "",
+            "column_width_2": 4,
+            "column_width_mobile_2": 12,
+            "text_alignment_2": "text-center",
+            "html_area_3": "",
+            "column_width_3": 4,
+            "column_width_mobile_3": 12,
+            "text_alignment_3": "text-center",
+            "html_area_4": "",
+            "column_width_4": 4,
+            "column_width_mobile_4": 12,
+            "text_alignment_4": "text-center",
+            "html_area_5": "",
+            "column_width_5": 4,
+            "column_width_mobile_5": 12,
+            "text_alignment_5": "text-center",
+            "html_area_6": "",
+            "column_width_6": 4,
+            "column_width_mobile_6": 12,
+            "text_alignment_6": "text-center",
+            "html_area_7": "",
+            "column_width_7": 4,
+            "column_width_mobile_7": 12,
+            "text_alignment_7": "text-center",
+            "html_area_8": "",
+            "column_width_8": 4,
+            "column_width_mobile_8": 12,
+            "text_alignment_8": "text-center",
+            "html_area_9": "",
+            "column_width_9": 4,
+            "column_width_mobile_9": 12,
+            "text_alignment_9": "text-center",
+            "html_area_10": "",
+            "column_width_10": 4,
+            "column_width_mobile_10": 12,
+            "text_alignment_10": "text-center"
+          }
+        }
+      },
+      "block_order": [
+        "16363636370262f21e-0"
+      ],
+      "settings": {
+        "show_on_desktop": true,
+        "show_on_mobile": true,
+        "title": "",
+        "subtitle": "",
+        "section_style": "section-blank"
+      }
+    },
+    "163636091562f8a855": {
+      "type": "featured-row",
+      "settings": {
+        "show_on_desktop": true,
+        "show_on_mobile": true,
+        "image": "shopify:\/\/shop_images\/Lumbar.jpg",
+        "section_style": "section-blank",
+        "text_size": "large",
+        "image_alignement": "left",
+        "text_alignment": "",
+        "title": "Soulagez votre dos et bas du dos avec une épaulière ou une ceinture lombaire",
+        "text": "<p>Notre dos est particulièrement vulnérable lorsque nous passons beaucoup de temps assis, c'est pourquoi il est bénéfique de soulager notre dos et nos épaules pendant notre journée de travail. Chez Anodyne®, nous proposons une gamme de produits de soutien du dos, notamment des épaulières et des ceintures lombaires. Ces deux produits sont des outils idéaux pour prévenir et traiter les douleurs et les tensions ; ils agissent comme des aides pour soutenir et soulager la musculature lorsqu'un besoin aigu se fait sentir.<\/p><p>Nos épaulières contribuent à améliorer la posture tant que vous la portez ; elles peuvent être utilisées en cas de douleurs et de tensions dans le cou, les épaules et le haut du dos. Les<br\/>omoplates sont remises en place, ce qui soulage la pression sur les épaules et le haut du dos. La ceinture lombaire est également efficace si vous souffrez de douleurs ou de tensions dans le bas du dos. Elle réduit la pression appliquée sur les muscles et permet d’améliorer la posture au niveau de la région lombaire.<\/p>",
+        "button_style": "btn--primary",
+        "button_label": "Voir la sélection",
+        "button_link": "shopify:\/\/collections\/soutien-du-dos"
+      }
+    },
+    "1636360953a3f8a06e": {
+      "type": "featured-row",
+      "settings": {
+        "show_on_desktop": true,
+        "show_on_mobile": true,
+        "image": "shopify:\/\/shop_images\/Posture_shirt.jpg",
+        "section_style": "section-default",
+        "text_size": "large",
+        "image_alignement": "right",
+        "text_alignment": "",
+        "title": "Prévenez les tensions posturales avec un t-shirt correcteur de posture",
+        "text": "<p>Une posture optimale en position assise peut, dans la grande majorité des cas, prévenir les douleurs ou les tensions dans la zone du cou et du dos. Cependant, il peut être difficile de penser à surveiller et à corriger sa posture tout au long de la journée. Si vous avez besoin d’aide pour vous rappeler à la vérifier, notre Posture Shirt™ est un choix idéal. Les bandes de soutien intégrées dans le dos, appelées NeuroBands™, tirent doucement sur les épaules, vous rappelant que ceux-ci s’affaissent et qu’il faut donc les repositionner. Notre Posture Shirt™ agit comme un rappel ; il vous est ainsi plus facile de penser à redresser votre dos tout au long de la journée et de faire de la bonne posture une habitude.<\/p>",
+        "button_style": "btn--primary",
+        "button_label": "Voir la sélection",
+        "button_link": "shopify:\/\/collections\/posture-shirt"
+      }
+    },
+    "163636096212911faf": {
+      "type": "featured-row",
+      "settings": {
+        "show_on_desktop": true,
+        "show_on_mobile": true,
+        "image": "shopify:\/\/shop_images\/Pillow.jpg",
+        "section_style": "section-blank",
+        "text_size": "large",
+        "image_alignement": "left",
+        "text_alignment": "",
+        "title": "Optimise sitting posture with ergonomic products",
+        "text": "<p>We also offer a range of products that specifically helps with your posture at the desk, including our BackJoy Posture+, Support Seat and Back Pillow. All products help to prevent lower back pain and tension, which can easily occur in a primarily sedentary job.<\/p><p>The products provides good lumbar support, reduces pressure on the lower back muscles and brings out the natural lumbar sway by pushing the pelvis forward. Use the products at your desk, dining table, on the sofa, in the car, and anywhere else you need extra lumbar support.<\/p>",
+        "button_style": "btn--primary",
+        "button_label": "View selection",
+        "button_link": "shopify:\/\/collections\/autres-produits"
+      }
+    }
+  },
+  "order": [
+    "1636011126d2c47b6d",
+    "163600963681aed54c",
+    "16363589409f6f02aa",
+    "163636123033606d35",
+    "16363636370262f21e",
+    "163636091562f8a855",
+    "1636360953a3f8a06e",
+    "163636096212911faf"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "sections": {
+    "main": {
+      "type": "video-background",
+      "settings": {}
+    },
+    "featured-image": {
+      "type": "featured-image",
+      "settings": {}
+    }
+  },
+  "order": [
+    "main",
+    "featured-image"
+  ]
+}

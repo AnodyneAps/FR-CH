@@ -1,0 +1,361 @@
+{
+  "sections": {
+    "1637325960a723ac8f": {
+      "type": "featured-image",
+      "settings": {
+        "show_on_desktop": true,
+        "show_on_mobile": true,
+        "full_width": true,
+        "image": "shopify:\/\/shop_images\/Smertelindring_hero.jpg",
+        "section_style": "section-blank",
+        "wrapper__height": 360,
+        "image_title": "<p><strong>Soulagement<br\/>de la douleur et posture saine<\/strong><\/p>",
+        "image_subtitle": "",
+        "image_btntext": "",
+        "image_link": "",
+        "show_on_image_scrolldown": false
+      }
+    },
+    "163577518155d0cfa9": {
+      "type": "HTML-columns",
+      "blocks": {
+        "163577518155d0cfa9-0": {
+          "type": "HTML_column",
+          "settings": {
+            "wrapper_size": "",
+            "html_area_1": "<div style=\"padding-left:40px;padding-right:40px\">\n<img src=\"https:\/\/i.ibb.co\/TPGrXrV\/Ease.png\" alt=\"Ease\" style=\"max-width:50px;width:100%\"><h2>Soulage la douleur\n<\/h2>\n<p>Une posture saine peut soulager les tensions dans le dos, les épaules et le cou.<\/p>\n<\/div>",
+            "column_width_1": 4,
+            "column_width_mobile_1": 12,
+            "text_alignment_1": "text-center",
+            "html_area_2": "<div style=\"padding-left:40px;padding-right:40px\">\n<img src=\"https:\/\/i.ibb.co\/t8q4kDW\/Prevents.png\" alt=\"Ease\" border=\"0\" style=\"max-width:50px;width:100%\"><h2>Prévient les blessures <\/h2>\n<p>Elle contribue à prévenir les éventuels problèmes de douleur futurs.<\/p>\n<\/div>",
+            "column_width_2": 4,
+            "column_width_mobile_2": 12,
+            "text_alignment_2": "text-center",
+            "html_area_3": "<div style=\"padding-left:40px;padding-right:40px\">\n<img src=\"https:\/\/i.ibb.co\/BCR1Fg3\/Alleviate.png\" alt=\"Ease\" border=\"0\" style=\"max-width:50px;width:100%\"><h2>Apaise le corps<\/h2>\n<p>Elle détend les groupes de muscles sollicités et soulage les tensions dans le dos.<\/p>\n<\/div>",
+            "column_width_3": 4,
+            "column_width_mobile_3": 12,
+            "text_alignment_3": "text-center",
+            "html_area_4": "",
+            "column_width_4": 4,
+            "column_width_mobile_4": 12,
+            "text_alignment_4": "text-center",
+            "html_area_5": "",
+            "column_width_5": 4,
+            "column_width_mobile_5": 12,
+            "text_alignment_5": "text-center",
+            "html_area_6": "",
+            "column_width_6": 4,
+            "column_width_mobile_6": 12,
+            "text_alignment_6": "text-center",
+            "html_area_7": "",
+            "column_width_7": 4,
+            "column_width_mobile_7": 12,
+            "text_alignment_7": "text-center",
+            "html_area_8": "",
+            "column_width_8": 4,
+            "column_width_mobile_8": 12,
+            "text_alignment_8": "text-center",
+            "html_area_9": "",
+            "column_width_9": 4,
+            "column_width_mobile_9": 12,
+            "text_alignment_9": "text-center",
+            "html_area_10": "",
+            "column_width_10": 4,
+            "column_width_mobile_10": 12,
+            "text_alignment_10": "text-center"
+          }
+        }
+      },
+      "block_order": [
+        "163577518155d0cfa9-0"
+      ],
+      "settings": {
+        "show_on_desktop": true,
+        "show_on_mobile": true,
+        "title": "<div style=\"margin-bottom:-50px\"><\/div>",
+        "subtitle": "",
+        "section_style": "section-default"
+      }
+    },
+    "16358413676827deec": {
+      "type": "mission",
+      "blocks": {
+        "16358413676827deec-0": {
+          "type": "html",
+          "settings": {
+            "mission_title": "<div style=\"margin-top:30px\"><h1>Soulagez la douleur grâce aux vêtements correcteurs de posture<\/h1><\/div>",
+            "mission_description": "<div style=\"margin-bottom:0px\"><p>Nous avons à cœur de prouver l'efficacité de nos produits, c'est pourquoi nous avons requis une étude indépendante qui a recueilli les réponses de 1 039 de nos clients. L'étude a conclu que notre Posture Shirt™ a un effet positif sur la posture et peut être utilisé comme une aide supplémentaire pour soulager les douleurs au niveau de la tête, du cou, des épaules et du dos.<\/p><\/div>",
+            "column_width": 12,
+            "column_width_mobile": 12,
+            "text_alignment": "text-center",
+            "btn_text": "",
+            "btn_url": ""
+          }
+        }
+      },
+      "block_order": [
+        "16358413676827deec-0"
+      ],
+      "settings": {
+        "show_on_desktop": true,
+        "show_on_mobile": true,
+        "margin__bottom": 30,
+        "section_style": "section-blank",
+        "wrapper_size": ""
+      }
+    },
+    "1635839832c61f83f2": {
+      "type": "featured-html-columns",
+      "blocks": {
+        "1635839832c61f83f2-0": {
+          "type": "HTML_block",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Shoulders.jpg",
+            "title": "",
+            "text": "<p><strong>73%<\/strong> constatent une réduction de la fréquence de leurs douleurs au dos et aux épaules.<\/p>",
+            "button_style": "btn--primary",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "1635839832c61f83f2-1": {
+          "type": "HTML_block",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Neck.jpg",
+            "title": "",
+            "text": "<strong>70% <\/strong> constatent une réduction de la fréquence de leurs douleurs cervicales.",
+            "button_style": "btn--primary",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "1635839832c61f83f2-2": {
+          "type": "HTML_block",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Lumbar2.jpg",
+            "title": "",
+            "text": "<strong>65% <\/strong> estiment que l'intensité de leurs douleurs lombaires a été réduite.",
+            "button_style": "btn--primary",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "256f7a0f-dd55-4e3e-8d8b-d17f7fe33ca9": {
+          "type": "HTML_block",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Headache.jpg",
+            "title": "",
+            "text": "<strong>77% <\/strong> estiment que l'intensité de leurs maux de tête a diminué.\n<br><br>",
+            "button_style": "btn--primary",
+            "button_label": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "1635839832c61f83f2-0",
+        "1635839832c61f83f2-1",
+        "1635839832c61f83f2-2",
+        "256f7a0f-dd55-4e3e-8d8b-d17f7fe33ca9"
+      ],
+      "settings": {
+        "show_on_desktop": true,
+        "show_on_mobile": true,
+        "title": "",
+        "subtitle": "",
+        "section_style": "section-blank",
+        "text_align": "text-center"
+      }
+    },
+    "16358466932eca0b65": {
+      "type": "HTML-columns",
+      "disabled": true,
+      "blocks": {
+        "16358466932eca0b65-0": {
+          "type": "HTML_column",
+          "settings": {
+            "wrapper_size": "",
+            "html_area_1": "<div style=\"margin-top:-100px; margin-bottom:-90px\"><a class=\"btn btn--small btn-outline-primary\" href=\"https:\/\/www.anodyne.dk\/pages\/test-af-holdningstoj\">En savoir plus sur l’enquête<\/a><\/div>",
+            "column_width_1": 12,
+            "column_width_mobile_1": 12,
+            "text_alignment_1": "text-center",
+            "html_area_2": "",
+            "column_width_2": 4,
+            "column_width_mobile_2": 12,
+            "text_alignment_2": "text-center",
+            "html_area_3": "",
+            "column_width_3": 4,
+            "column_width_mobile_3": 12,
+            "text_alignment_3": "text-center",
+            "html_area_4": "",
+            "column_width_4": 4,
+            "column_width_mobile_4": 12,
+            "text_alignment_4": "text-center",
+            "html_area_5": "",
+            "column_width_5": 4,
+            "column_width_mobile_5": 12,
+            "text_alignment_5": "text-center",
+            "html_area_6": "",
+            "column_width_6": 4,
+            "column_width_mobile_6": 12,
+            "text_alignment_6": "text-center",
+            "html_area_7": "",
+            "column_width_7": 4,
+            "column_width_mobile_7": 12,
+            "text_alignment_7": "text-center",
+            "html_area_8": "",
+            "column_width_8": 4,
+            "column_width_mobile_8": 12,
+            "text_alignment_8": "text-center",
+            "html_area_9": "",
+            "column_width_9": 4,
+            "column_width_mobile_9": 12,
+            "text_alignment_9": "text-center",
+            "html_area_10": "",
+            "column_width_10": 4,
+            "column_width_mobile_10": 12,
+            "text_alignment_10": "text-center"
+          }
+        }
+      },
+      "block_order": [
+        "16358466932eca0b65-0"
+      ],
+      "settings": {
+        "show_on_desktop": true,
+        "show_on_mobile": true,
+        "title": "",
+        "subtitle": "",
+        "section_style": "section-blank"
+      }
+    },
+    "16358488013c1aad95": {
+      "type": "HTML-columns",
+      "blocks": {
+        "16358488013c1aad95-0": {
+          "type": "HTML_column",
+          "settings": {
+            "wrapper_size": "",
+            "html_area_1": "<div style=\"margin-top:-40px; margin-bottom:0px\">\n<h2>Nous sommes médicalement enregistrés<\/h2>\n<img src=\"https:\/\/i.ibb.co\/rF0hmhY\/Registrering2.png\">\n<p>Anodyne® est le seul détaillant de vêtements correcteurs de posture en Europe dont les produits sont à la fois enregistrés auprès de la FDA et marqués CE en tant que dispositifs médicaux.\nCes références confirment que nos produits répondent à un certain nombre d'exigences strictes en matière d'environnement, de sécurité, de qualité et de performance.\n<br>Cet enregistrement s'applique à la fois à notre Posture Shirt™, SpinalQ Pro et MyLign Pro.\n<\/p>\n<\/div>\n<a class=\"btn btn--small btn-outline\" href=\"https:\/\/www.anodyne.fr\/collections\/posture-shirt\">Voir la sélection<\/a>",
+            "column_width_1": 12,
+            "column_width_mobile_1": 12,
+            "text_alignment_1": "text-center",
+            "html_area_2": "",
+            "column_width_2": 4,
+            "column_width_mobile_2": 12,
+            "text_alignment_2": "text-center",
+            "html_area_3": "",
+            "column_width_3": 4,
+            "column_width_mobile_3": 12,
+            "text_alignment_3": "text-center",
+            "html_area_4": "",
+            "column_width_4": 4,
+            "column_width_mobile_4": 12,
+            "text_alignment_4": "text-center",
+            "html_area_5": "",
+            "column_width_5": 4,
+            "column_width_mobile_5": 12,
+            "text_alignment_5": "text-center",
+            "html_area_6": "",
+            "column_width_6": 4,
+            "column_width_mobile_6": 12,
+            "text_alignment_6": "text-center",
+            "html_area_7": "",
+            "column_width_7": 4,
+            "column_width_mobile_7": 12,
+            "text_alignment_7": "text-center",
+            "html_area_8": "",
+            "column_width_8": 4,
+            "column_width_mobile_8": 12,
+            "text_alignment_8": "text-center",
+            "html_area_9": "",
+            "column_width_9": 4,
+            "column_width_mobile_9": 12,
+            "text_alignment_9": "text-center",
+            "html_area_10": "",
+            "column_width_10": 4,
+            "column_width_mobile_10": 12,
+            "text_alignment_10": "text-center"
+          }
+        }
+      },
+      "block_order": [
+        "16358488013c1aad95-0"
+      ],
+      "settings": {
+        "show_on_desktop": true,
+        "show_on_mobile": true,
+        "title": "",
+        "subtitle": "",
+        "section_style": "section-default"
+      }
+    },
+    "1635847349cfc999cc": {
+      "type": "featured-row",
+      "settings": {
+        "show_on_desktop": true,
+        "show_on_mobile": true,
+        "image": "shopify:\/\/shop_images\/Kinesotape_to_posture_shirt.jpg",
+        "section_style": "section-blank",
+        "text_size": "large",
+        "image_alignement": "left",
+        "text_alignment": "",
+        "title": "Inspiré par la bande de kinésiologie",
+        "text": "<p>Le Posture Shirt™ est le t-shirt original de correction de la posture sur le marché. Le T-shirt a été développé sur la base d'études scientifiques de la physiologie humaine et inspiré par l'utilisation de la bande de kinésiologie, appelée aussi k tape, comme traitement physiothérapeutique de la douleur. <\/p><p>Le k tape est intégré dans notre Posture Shirt™ avec les dénommés NeuroBands™ dans le dos - des bandes de soutien placées là où les bandes de kinésiologie sont normalement appliquées. Ces NeuroBands™ sont essentiels à la capacité du t-shirt à stimuler une meilleure posture en tirant légèrement les épaules en arrière. Cette traction rappelle au corps de se redresser et de maintenir une bonne posture.<\/p>",
+        "button_style": "btn-outline-primary",
+        "button_label": "Lire la suite",
+        "button_link": "shopify:\/\/collections\/posture-shirt"
+      }
+    },
+    "16358473897202a471": {
+      "type": "featured-row",
+      "settings": {
+        "show_on_desktop": true,
+        "show_on_mobile": true,
+        "section_style": "section-default",
+        "text_size": "large",
+        "image_alignement": "right",
+        "text_alignment": "",
+        "title": "Le soulagement de la douleur est dans notre ADN",
+        "text": "<p>Anodyne® a été fondé parce que le PDG, Kenneth, a lui-même souffert de douleurs pendant de nombreuses années. Après d'innombrables traitements de physiothérapie et une longue recherche en la matière, il a finalement trouvé un t-shirt correcteur de posture en provenance des États-Unis qui a contribué à corriger sa posture. L'effet était indéniable en ce qui le concerne et il a su qu’il devait partager ce t-shirt avec les personnes dont le quotidien était  perturbé par des douleurs similaires. Ainsi, en 2014, en collaboration avec sa femme Mia, il a fondé Anodyne®, puis a commencé à distribuer le Posture Shirt™ en Europe. Depuis, la gamme s'est élargie et, dès lors, nous proposons un large éventail de produits visant à améliorer la posture et permettant de soulager la douleur.<\/p>",
+        "button_style": "btn-outline-primary",
+        "button_label": "A propos de nous",
+        "button_link": "shopify:\/\/pages\/a-propos-de-nous"
+      }
+    },
+    "163584739511c70230": {
+      "type": "featured-products",
+      "settings": {
+        "show_on_desktop": true,
+        "show_on_mobile": true,
+        "title": "Best-sellers",
+        "subtitle": "",
+        "section_style": "section-blank",
+        "home_featured_products": "tous-les-produits",
+        "rows": "2",
+        "desktop_grid": "4",
+        "mobile_grid": "2",
+        "show_view_all": false,
+        "button_label": "View all",
+        "button_link": "",
+        "button_style": "btn-outline-primary",
+        "slider_related_products": true,
+        "arrows": true,
+        "dots": true,
+        "autoplay": false,
+        "autoplayspeed": 5
+      }
+    }
+  },
+  "order": [
+    "1637325960a723ac8f",
+    "163577518155d0cfa9",
+    "16358413676827deec",
+    "1635839832c61f83f2",
+    "16358466932eca0b65",
+    "16358488013c1aad95",
+    "1635847349cfc999cc",
+    "16358473897202a471",
+    "163584739511c70230"
+  ]
+}
