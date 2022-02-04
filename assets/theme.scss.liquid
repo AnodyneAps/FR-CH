@@ -10236,6 +10236,24 @@ selector[data-type="languages"][data-id="283692853"].ls-sw-closed > .active:afte
     }
   }
 }
+.site-nav__item, .dropdown-item {
+  .langlink {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    .langtext{
+      font-size:0.95rem;
+      padding-left: 5px;
+    }
+  }
+}
+.dropdown-item{
+  .langlink {
+    .langflag img{
+      margin-top:3px;
+    }
+  }
+}
 {%- if settings.custom_style != blank -%}
 /*================ _custom_styles ================*/
 {{ settings.custom_style }}
