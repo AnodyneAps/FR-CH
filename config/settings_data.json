@@ -12,6 +12,7 @@
     "collection_grid_animation": true,
     "collection_grid_button_style": "",
     "word_count": 33,
+    "show_locale_selector": false,
     "show_currency_selector": false,
     "localization_position": "header",
     "newsletter_name": false,
