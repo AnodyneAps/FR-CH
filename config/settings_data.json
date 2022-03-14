@@ -12,7 +12,7 @@
     "collection_grid_animation": true,
     "collection_grid_button_style": "",
     "word_count": 33,
-    "show_locale_selector": false,
+    "show_locale_selector": true,
     "show_currency_selector": false,
     "localization_position": "header",
     "newsletter_name": false,
@@ -171,7 +171,7 @@
     "dbtfy_wish_list_remove_text": "Retirer de la liste de souhaits",
     "dbtfy_wish_list_empty_text": "Votre liste de souhaits est actuellement vide.",
     "dbtfy_wish_list_share_label": "Partager la liste de souhaits",
-    "checkout_logo_image": "shopify:\/\/shop_images\/Anodyne_black_medium_6728745e-a674-486e-8077-9faaf5a75715.png",
+    "checkout_logo_image": "shopify:\/\/shop_images\/Anodyne_logo_default_medium_bff698b5-f9ca-49ba-834e-0df5d98fb4b1.png",
     "checkout_logo_size": "medium",
     "checkout_accent_color": "#398e82",
     "checkout_button_color": "#398e82",
@@ -306,8 +306,8 @@
           "announcement-0": {
             "type": "message",
             "settings": {
-              "announcement_text": "<p><strong>Politique de retours sous 14 jours<\/strong><\/p>",
-              "announcement_counter": "",
+              "announcement_text": "<p><strong>L'offre de la semaine se termine à :<\/strong><\/p>",
+              "announcement_counter": "Mar 20, 2022 23:59:59",
               "announcemen_link": "",
               "announcement_end_text": ""
             }

@@ -129,16 +129,16 @@ m = addZero(mins - hours * 60);
 s = addZero(secs - mins * 60);
   if(d<1){
     someId.innerHTML = `
-<div class="announcement_number"><span class="digit">${h}</span><span class="announcement_text">U<span class="hide-small">ren</span></span></div>
-<div class="announcement_number"><span class="digit">${m}</span><span class="announcement_text">M<span class="hide-small">inuten</span></span></div>
-<div class="announcement_number"><span class="digit">${s}</span><span class="announcement_text">S<span class="hide-small">econden</span></span></div>
+<div class="announcement_number"><span class="digit">${h}</span><span class="announcement_text">H<span class="hide-small">eures</span></span></div>
+<div class="announcement_number"><span class="digit">${m}</span><span class="announcement_text">M<span class="hide-small">inutes</span></span></div>
+<div class="announcement_number"><span class="digit">${s}</span><span class="announcement_text">S<span class="hide-small">econdes</span></span></div>
 `
   }else{
     someId.innerHTML = `
 <div class="announcement_number"><span class="digit">${d}</span><span class="announcement_text">J<span class="hide-small">ours</span></span></div>
-<div class="announcement_number"><span class="digit">${h}</span><span class="announcement_text">U<span class="hide-small">ren</span></span></div>
-<div class="announcement_number"><span class="digit">${m}</span><span class="announcement_text">M<span class="hide-small">inuten</span></span></div>
-<div class="announcement_number"><span class="digit">${s}</span><span class="announcement_text">S<span class="hide-small">econden</span></span></div>
+<div class="announcement_number"><span class="digit">${h}</span><span class="announcement_text">H<span class="hide-small">eures</span></span></div>
+<div class="announcement_number"><span class="digit">${m}</span><span class="announcement_text">M<span class="hide-small">inutes</span></span></div>
+<div class="announcement_number"><span class="digit">${s}</span><span class="announcement_text">S<span class="hide-small">econdes</span></span></div>
 `
   }
 	
