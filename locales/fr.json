@@ -316,7 +316,7 @@
   },
   "products": {
     "general": {
-      "save_html": "Épargnez {{ saved_amount }}",
+      "save_html": "Économisez {{ saved_amount }}",
       "collection_return": "Retour à {{ collection }}",
       "sale_price": "Prix réduit",
       "regular_price": "Prix régulier",

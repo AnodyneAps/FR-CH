@@ -4502,7 +4502,16 @@ cite {
 {{- settings.icon | prepend: "." -}} {
   @include iconFontStack;
 }
-
+.Icon {
+  display: inline-block;
+  height: 1.2em;
+  width: 1.2em;
+  fill: currentColor;
+  vertical-align: middle;
+  stroke-width: 1px;
+  background: none;
+  pointer-events: none;
+}
 .icon-image {
   line-height: 1;
 }
@@ -5601,73 +5610,69 @@ cite {
 /*============================================================================
   _Sections
 ==============================================================================*/
-
 /*================ _Announcement ================*/
 .announcement-section {
   z-index: $zindexHeader + 1;
-
   .sticky-announcement_bar & {
     @include sticky;
     z-index: $zindexHeader + 1;
   }
-
 }
-
 #announcement {
   background-color: $colorAnnouncement;
   color: $colorAnnouncementText;
-
   a {
     color: $colorAnnouncementText;
   }
-
   .rte {
-    margin-bottom: 5px;
+    margin-bottom: 4px;
   }
-
   p {
     @include ellipsis;
   }
 }
-
 .announcement-grid {
   height: $heightInputSmall;
 }
-
 .announcement-left-message {
   .social-medias + & {
     margin-left: $spacer-sm;
   }
 }
-
 .announcement-message {
   .slick-track {
     @include display-flexbox;
     @include align-items(center);
   }
 }
-
 .announcement-right-message {
   & + ul {
     margin-left: $spacer-sm;
   }
 }
 .announcement-message-item{
-
   .announcement-message{
+    display: flex;
+    justify-content: center;
+    align-items:center;
+    gap:.25em;
+    .Icon{
+      margin-right: 5px;
+      margin-top: -4px;
+      height: 18px;
+      width: auto;
+    }
     p{
-      margin:0 5px 0 0;
-      font-size:0.8rem;
+      padding-top:15px;
+      font-size:.999rem;
       font-weight:500;
-      letter-spacing: -1px;
       strong{
-        color: $cAccent;
+        color:$white;
       }
     }
   }
   .announcement_counter{
     .announcement_number{
-
       .digit{
         font-size:0.850rem;
         font-weight:900;
@@ -7859,11 +7864,13 @@ body {
   .cu-product-name {
     margin-bottom: 0;
     margin-left: $spacer-sm;
+    display:none;
   }
 
   .cu-product-wrapper {
     @include display-flexbox();
     line-height: 0;
+    flex-wrap: wrap;
   }
 
   .cu-image-wrapper {
@@ -7874,12 +7881,13 @@ body {
 
   .cu-product-select {
     margin-right: $spacer-sm;
-    width: 120px;
+    width: 220px;
     @include flex(auto);
   }
 
   .cu-product-button {
     max-width: 140px;
+    margin-top:$gutter-xs;
   }
 }
 {%- endif -%}
@@ -10299,6 +10307,9 @@ selector[data-type="languages"][data-id="283692853"].ls-sw-closed > .active:afte
       margin-top:3px;
     }
   }
+}
+.basic-hide{
+  display: none !important;
 }
 /* collection image and subtext*/
 .c_wrapper{

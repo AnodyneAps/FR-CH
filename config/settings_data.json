@@ -27,6 +27,7 @@
     "page_wrapper": "1248",
     "payment_icon_size": 24,
     "sale_type": "percentage",
+    "browsing_link": "shopify:\/\/collections\/tous-les-produits",
     "zindex_drawer": "999",
     "cart_notes_enable": false,
     "color_announcement_bg": "#444444",
@@ -78,6 +79,7 @@
     "dbtfy_back_in_stock": true,
     "dbtfy_cart_countdown": true,
     "dbtfy_cart_favicon": false,
+    "dbtfy_cart_discount": true,
     "dbtfy_collection_addtocart": false,
     "dbtfy_collection_filters": false,
     "dbtfy_color_swatches": true,
@@ -106,7 +108,7 @@
     "dbtfy_social_discount": false,
     "dbtfy_sticky_addtocart": false,
     "synced_variant_image": false,
-    "dbtfy_trust_badge": false,
+    "dbtfy_trust_badge": true,
     "dbtfy_wish_list": false,
     "dbtfy_addtocart_animation_type": "pulse",
     "dbtfy_addtocart_animation_interval": 15,
@@ -175,6 +177,7 @@
     "dbtfy_social_discount_reward_button": "Utilisez le code de réduction",
     "dbtfy_social_discount_reward_code": "20GWS15",
     "dbtfy_social_discount_reward_amount": "10",
+    "dbtfy_trust_badge_cart": false,
     "dbtfy_trust_badge_image": "shopify:\/\/shop_images\/Payment_denmark.png",
     "dbtfy_trust_badge_text": "Paiement sécurisé",
     "dbtfy_wish_list_add_text": "Ajouter à la liste de souhaits",
@@ -258,6 +261,219 @@
       },
       "dbtfy-cart-upsell": {
         "type": "dbtfy-cart-upsell",
+        "blocks": {
+          "00cbe6b9-1c69-42d3-95fd-74eb4fd15066": {
+            "type": "cart-item-upsell",
+            "settings": {
+              "dbtfy_cart_upsell_replace_item": "add",
+              "dbtfy_cart_specific_upsell_title": "Prenez un Back Stretcher avec. Maintenant vous <strong>économisez 49%<\/strong> (prix normal 69.00 CHF)",
+              "dbtfy_cart_specific_upsell_product_trigger": "anodyne-bra",
+              "dbtfy_cart_specific_upsell_product_offer": "back-stretcher-civiere-dorsale-achat",
+              "dbtfy_cart_specific_upsell_btn_title": "Oui merci"
+            }
+          },
+          "d348e47c-014e-45b0-838e-9b62fd150a47": {
+            "type": "cart-item-upsell",
+            "settings": {
+              "dbtfy_cart_upsell_replace_item": "add",
+              "dbtfy_cart_specific_upsell_title": "Prenez un Back Stretcher avec. Maintenant vous <strong>économisez 49%<\/strong> (prix normal 69.00 CHF)",
+              "dbtfy_cart_specific_upsell_product_trigger": "womens-posture-shirt-noir",
+              "dbtfy_cart_specific_upsell_product_offer": "back-stretcher-civiere-dorsale-achat",
+              "dbtfy_cart_specific_upsell_btn_title": "Oui merci"
+            }
+          },
+          "14e9cea5-5457-4ed2-a640-301d10d76cdf": {
+            "type": "cart-item-upsell",
+            "settings": {
+              "dbtfy_cart_upsell_replace_item": "add",
+              "dbtfy_cart_specific_upsell_title": "Prenez un Back Stretcher avec. Maintenant vous <strong>économisez 49%<\/strong> (prix normal 69.00 CHF)",
+              "dbtfy_cart_specific_upsell_product_trigger": "mens-posture-shirt-noir",
+              "dbtfy_cart_specific_upsell_product_offer": "back-stretcher-civiere-dorsale-achat",
+              "dbtfy_cart_specific_upsell_btn_title": "Oui merci"
+            }
+          },
+          "3f5c379a-8d85-48e3-92ea-14efcd65c17c": {
+            "type": "cart-item-upsell",
+            "settings": {
+              "dbtfy_cart_upsell_replace_item": "add",
+              "dbtfy_cart_specific_upsell_title": "Prenez un Back Stretcher avec. Maintenant vous <strong>économisez 49%<\/strong> (prix normal 69.00 CHF)",
+              "dbtfy_cart_specific_upsell_product_trigger": "womens-posture-shirt-blanc",
+              "dbtfy_cart_specific_upsell_product_offer": "back-stretcher-civiere-dorsale-achat",
+              "dbtfy_cart_specific_upsell_btn_title": "Oui merci"
+            }
+          },
+          "62f328d8-60ca-496d-9b6f-d4dbe6a98559": {
+            "type": "cart-item-upsell",
+            "settings": {
+              "dbtfy_cart_upsell_replace_item": "add",
+              "dbtfy_cart_specific_upsell_title": "Prenez un Back Stretcher avec. Maintenant vous <strong>économisez 49%<\/strong> (prix normal 69.00 CHF)",
+              "dbtfy_cart_specific_upsell_product_trigger": "mens-posture-shirt-blanc",
+              "dbtfy_cart_specific_upsell_product_offer": "back-stretcher-civiere-dorsale-achat",
+              "dbtfy_cart_specific_upsell_btn_title": "Oui merci"
+            }
+          },
+          "babd02a8-a0e0-42d6-bc66-59b0b55a1ef0": {
+            "type": "cart-item-upsell",
+            "settings": {
+              "dbtfy_cart_upsell_replace_item": "add",
+              "dbtfy_cart_specific_upsell_title": "Prenez un Back Stretcher avec. Maintenant vous <strong>économisez 49%<\/strong> (prix normal 69.00 CHF)",
+              "dbtfy_cart_specific_upsell_product_trigger": "womens-posture-shirt-zipper-noir",
+              "dbtfy_cart_specific_upsell_product_offer": "back-stretcher-civiere-dorsale-achat",
+              "dbtfy_cart_specific_upsell_btn_title": "Oui merci"
+            }
+          },
+          "580de5b8-8e98-4162-a794-f3f4510330e8": {
+            "type": "cart-item-upsell",
+            "settings": {
+              "dbtfy_cart_upsell_replace_item": "add",
+              "dbtfy_cart_specific_upsell_title": "Prenez un Back Stretcher avec. Maintenant vous <strong>économisez 49%<\/strong> (prix normal 69.00 CHF)",
+              "dbtfy_cart_specific_upsell_product_trigger": "mens-posture-shirt-zipper-noir",
+              "dbtfy_cart_specific_upsell_product_offer": "back-stretcher-civiere-dorsale-achat",
+              "dbtfy_cart_specific_upsell_btn_title": "Oui merci"
+            }
+          },
+          "92313d0a-c531-4d40-8424-7acfac622193": {
+            "type": "cart-item-upsell",
+            "settings": {
+              "dbtfy_cart_upsell_replace_item": "add",
+              "dbtfy_cart_specific_upsell_title": "Prenez un Back Stretcher avec. Maintenant vous <strong>économisez 49%<\/strong> (prix normal 69.00 CHF)",
+              "dbtfy_cart_specific_upsell_product_trigger": "womens-posture-shirt-zipper-blanc",
+              "dbtfy_cart_specific_upsell_product_offer": "back-stretcher-civiere-dorsale-achat",
+              "dbtfy_cart_specific_upsell_btn_title": "Oui merci"
+            }
+          },
+          "97031b60-da29-4e51-8fe3-2bbb7327aa65": {
+            "type": "cart-item-upsell",
+            "settings": {
+              "dbtfy_cart_upsell_replace_item": "add",
+              "dbtfy_cart_specific_upsell_title": "Prenez un Back Stretcher avec. Maintenant vous <strong>économisez 49%<\/strong> (prix normal 69.00 CHF)",
+              "dbtfy_cart_specific_upsell_product_trigger": "mens-posture-shirt-zipper-blanc",
+              "dbtfy_cart_specific_upsell_product_offer": "back-stretcher-civiere-dorsale-achat",
+              "dbtfy_cart_specific_upsell_btn_title": "Oui merci"
+            }
+          },
+          "606c965c-4771-4574-9fb1-6d932d3322e7": {
+            "type": "cart-item-upsell",
+            "settings": {
+              "dbtfy_cart_upsell_replace_item": "add",
+              "dbtfy_cart_specific_upsell_title": "Prenez un Back Stretcher avec. Maintenant vous <strong>économisez 49%<\/strong> (prix normal 69.00 CHF)",
+              "dbtfy_cart_specific_upsell_product_trigger": "womens-posture-shirt-bordeaux",
+              "dbtfy_cart_specific_upsell_product_offer": "back-stretcher-civiere-dorsale-achat",
+              "dbtfy_cart_specific_upsell_btn_title": "Oui merci"
+            }
+          },
+          "f4a279dc-66bc-42ba-a070-dafaa5dcf2fe": {
+            "type": "cart-item-upsell",
+            "settings": {
+              "dbtfy_cart_upsell_replace_item": "add",
+              "dbtfy_cart_specific_upsell_title": "Prenez un Back Stretcher avec. Maintenant vous <strong>économisez 49%<\/strong> (prix normal 69.00 CHF)",
+              "dbtfy_cart_specific_upsell_product_trigger": "womens-posture-shirt-nude",
+              "dbtfy_cart_specific_upsell_product_offer": "back-stretcher-civiere-dorsale-achat",
+              "dbtfy_cart_specific_upsell_btn_title": "Oui merci"
+            }
+          },
+          "3737033a-d0cc-4594-814f-1ab943942fa6": {
+            "type": "cart-item-upsell",
+            "settings": {
+              "dbtfy_cart_upsell_replace_item": "add",
+              "dbtfy_cart_specific_upsell_title": "Prenez un Back Stretcher avec. Maintenant vous <strong>économisez 49%<\/strong> (prix normal 69.00 CHF)",
+              "dbtfy_cart_specific_upsell_product_trigger": "womens-posture-shirt-zipper-nude",
+              "dbtfy_cart_specific_upsell_product_offer": "back-stretcher-civiere-dorsale-achat",
+              "dbtfy_cart_specific_upsell_btn_title": "Oui merci"
+            }
+          },
+          "9f13be1e-2dcc-49d0-aa9c-f28c9ca584b6": {
+            "type": "cart-item-upsell",
+            "settings": {
+              "dbtfy_cart_upsell_replace_item": "add",
+              "dbtfy_cart_specific_upsell_title": "Prenez un Back Stretcher avec. Maintenant vous <strong>économisez 49%<\/strong> (prix normal 69.00 CHF)",
+              "dbtfy_cart_specific_upsell_product_trigger": "soutien-dorsal-premium",
+              "dbtfy_cart_specific_upsell_product_offer": "back-stretcher-civiere-dorsale-achat",
+              "dbtfy_cart_specific_upsell_btn_title": "Oui merci"
+            }
+          },
+          "ab64f3d6-686d-4fa7-ba4e-6a9467d67860": {
+            "type": "cart-item-upsell",
+            "settings": {
+              "dbtfy_cart_upsell_replace_item": "add",
+              "dbtfy_cart_specific_upsell_title": "Prenez un Back Stretcher avec. Maintenant vous <strong>économisez 49%<\/strong> (prix normal 69.00 CHF)",
+              "dbtfy_cart_specific_upsell_product_trigger": "soutien-dorsal-comfort",
+              "dbtfy_cart_specific_upsell_product_offer": "back-stretcher-civiere-dorsale-achat",
+              "dbtfy_cart_specific_upsell_btn_title": "Oui merci"
+            }
+          },
+          "7fb1c9ca-db7f-48d8-94d3-298d0deaf338": {
+            "type": "cart-item-upsell",
+            "settings": {
+              "dbtfy_cart_upsell_replace_item": "add",
+              "dbtfy_cart_specific_upsell_title": "Prenez un Back Stretcher avec. Maintenant vous <strong>économisez 49%<\/strong> (prix normal 69.00 CHF)",
+              "dbtfy_cart_specific_upsell_product_trigger": "ceinture-lombaire",
+              "dbtfy_cart_specific_upsell_product_offer": "back-stretcher-civiere-dorsale-achat",
+              "dbtfy_cart_specific_upsell_btn_title": "Oui merci"
+            }
+          },
+          "0ad44b8b-8653-41fc-8227-623a37663be6": {
+            "type": "cart-item-upsell",
+            "settings": {
+              "dbtfy_cart_upsell_replace_item": "add",
+              "dbtfy_cart_specific_upsell_title": "Prenez un Back Stretcher avec. Maintenant vous <strong>économisez 49%<\/strong> (prix normal 69.00 CHF)",
+              "dbtfy_cart_specific_upsell_product_trigger": "coussin-et-tapis-dacupression",
+              "dbtfy_cart_specific_upsell_product_offer": "back-stretcher-civiere-dorsale-achat",
+              "dbtfy_cart_specific_upsell_btn_title": "Oui merci"
+            }
+          },
+          "2b632114-6563-4e42-9284-702c0c8501ec": {
+            "type": "cart-item-upsell",
+            "settings": {
+              "dbtfy_cart_upsell_replace_item": "add",
+              "dbtfy_cart_specific_upsell_title": "Prenez un Back Stretcher avec. Maintenant vous <strong>économisez 49%<\/strong> (prix normal 69.00 CHF)",
+              "dbtfy_cart_specific_upsell_product_trigger": "coussin-dassise-ergonomique",
+              "dbtfy_cart_specific_upsell_product_offer": "back-stretcher-civiere-dorsale-achat",
+              "dbtfy_cart_specific_upsell_btn_title": "Oui merci"
+            }
+          },
+          "f02f3a62-1452-41ba-b353-91ff8a195797": {
+            "type": "cart-item-upsell",
+            "settings": {
+              "dbtfy_cart_upsell_replace_item": "add",
+              "dbtfy_cart_specific_upsell_title": "Prenez un Back Stretcher avec. Maintenant vous <strong>économisez 49%<\/strong> (prix normal 69.00 CHF)",
+              "dbtfy_cart_specific_upsell_product_trigger": "coussin-pour-le-dos",
+              "dbtfy_cart_specific_upsell_product_offer": "back-stretcher-civiere-dorsale-achat",
+              "dbtfy_cart_specific_upsell_btn_title": "Oui merci"
+            }
+          },
+          "903dd50a-771c-4ee4-817a-582182d52250": {
+            "type": "cart-item-upsell",
+            "settings": {
+              "dbtfy_cart_upsell_replace_item": "add",
+              "dbtfy_cart_specific_upsell_title": "Prenez un Back Stretcher avec. Maintenant vous <strong>économisez 49%<\/strong> (prix normal 69.00 CHF)",
+              "dbtfy_cart_specific_upsell_product_trigger": "pistolet-de-massage",
+              "dbtfy_cart_specific_upsell_product_offer": "back-stretcher-civiere-dorsale-achat",
+              "dbtfy_cart_specific_upsell_btn_title": "Oui merci"
+            }
+          }
+        },
+        "block_order": [
+          "00cbe6b9-1c69-42d3-95fd-74eb4fd15066",
+          "d348e47c-014e-45b0-838e-9b62fd150a47",
+          "14e9cea5-5457-4ed2-a640-301d10d76cdf",
+          "3f5c379a-8d85-48e3-92ea-14efcd65c17c",
+          "62f328d8-60ca-496d-9b6f-d4dbe6a98559",
+          "babd02a8-a0e0-42d6-bc66-59b0b55a1ef0",
+          "580de5b8-8e98-4162-a794-f3f4510330e8",
+          "92313d0a-c531-4d40-8424-7acfac622193",
+          "97031b60-da29-4e51-8fe3-2bbb7327aa65",
+          "606c965c-4771-4574-9fb1-6d932d3322e7",
+          "f4a279dc-66bc-42ba-a070-dafaa5dcf2fe",
+          "3737033a-d0cc-4594-814f-1ab943942fa6",
+          "9f13be1e-2dcc-49d0-aa9c-f28c9ca584b6",
+          "ab64f3d6-686d-4fa7-ba4e-6a9467d67860",
+          "7fb1c9ca-db7f-48d8-94d3-298d0deaf338",
+          "0ad44b8b-8653-41fc-8227-623a37663be6",
+          "2b632114-6563-4e42-9284-702c0c8501ec",
+          "f02f3a62-1452-41ba-b353-91ff8a195797",
+          "903dd50a-771c-4ee4-817a-582182d52250"
+        ],
         "settings": {
           "dbtfy_cart_upsell_button_style": "btn--primary"
         }
@@ -316,7 +532,7 @@
           "announcement-0": {
             "type": "message",
             "settings": {
-              "announcement_text": "<p><strong>Livraison gratuite plus de 59 CHF <\/strong><\/p>",
+              "announcement_text": "<p>Soldes de printemps  |  <strong>Économisez jusqu'à 50 %<\/strong><\/p>",
               "announcement_counter": "",
               "announcemen_link": "",
               "announcement_end_text": ""
