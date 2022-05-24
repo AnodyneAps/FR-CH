@@ -30,7 +30,7 @@
     "browsing_link": "shopify:\/\/collections\/tous-les-produits",
     "zindex_drawer": "999",
     "cart_notes_enable": false,
-    "color_announcement_bg": "#444444",
+    "color_announcement_bg": "#f48400",
     "color_nav_text": "#252525",
     "color_default": "#f7f7f7",
     "color_headings": "#252525",
@@ -532,7 +532,38 @@
           "announcement-0": {
             "type": "message",
             "settings": {
-              "announcement_text": "<p>Soldes de printemps  |  <strong>Économisez jusqu'à 50 %<\/strong><\/p>",
+              "announcement_text": "<p>Livraison gratuite plus de 59 CHF<\/p>",
+              "icon_selector": "truck",
+              "announcement_counter": "",
+              "announcemen_link": "",
+              "announcement_end_text": ""
+            }
+          },
+          "d5b332bb-6716-425f-8f51-859ca017debc": {
+            "type": "message",
+            "settings": {
+              "announcement_text": "<p>Retour et échanges gratuits<\/p>",
+              "icon_selector": "return",
+              "announcement_counter": "",
+              "announcemen_link": "",
+              "announcement_end_text": ""
+            }
+          },
+          "bdc471d6-5e63-4a0e-838d-9dfb2e643316": {
+            "type": "message",
+            "settings": {
+              "announcement_text": "<p>Politique de retours sous 14 jours<\/p>",
+              "icon_selector": "checkmark",
+              "announcement_counter": "",
+              "announcemen_link": "",
+              "announcement_end_text": ""
+            }
+          },
+          "e904c88f-088b-4ec5-9666-a564e0668b19": {
+            "type": "message",
+            "settings": {
+              "announcement_text": "<p>Service professionnel<\/p>",
+              "icon_selector": "star",
               "announcement_counter": "",
               "announcemen_link": "",
               "announcement_end_text": ""
@@ -540,7 +571,10 @@
           }
         },
         "block_order": [
-          "announcement-0"
+          "announcement-0",
+          "d5b332bb-6716-425f-8f51-859ca017debc",
+          "bdc471d6-5e63-4a0e-838d-9dfb2e643316",
+          "e904c88f-088b-4ec5-9666-a564e0668b19"
         ],
         "settings": {
           "show_announcement": true,
@@ -927,7 +961,7 @@
           "image_position": "center center",
           "video_title": "<span class=\"first\">ANODYNE®<\/span>",
           "text_size": "medium",
-          "text_description": "<p><strong>Vêtements de posture avec une garantie satisfait ou remboursé<\/strong><\/p>",
+          "text_description": "<p><strong>SOLDES DE PRINTEMPS ! Économisez jusqu'à 50 %<\/strong><\/p>",
           "text_description_size": "medium",
           "button_label": "Femme",
           "button_link": "shopify:\/\/collections\/femme",
