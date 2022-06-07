@@ -261,7 +261,7 @@
   {% if content_for_header contains 'rio.pwztag.com' %}{% render 'productwiz-rio', product: product, shop: shop, installGuard: true %}{% endif %}
 
 <!-- tidio script !-->
-<script src="//code.tidio.co/jzt8ftgyvckjyzv4zsluozcpvuouiix5.js" async></script> 
+<!-- <script src="//code.tidio.co/jzt8ftgyvckjyzv4zsluozcpvuouiix5.js" async></script>  -->
 <!-- tidio script !-->
 
 <!-- Start of Sleeknote signup and lead generation tool - www.sleeknote.com -->
@@ -356,7 +356,6 @@
         });
       </script>
     {%- endif -%}
-  {% render 'awesome-quantity', product: product %}
   {%- if request.page_type == "product" -%}
   <script src="{{ 'fr-ch-counter.js' | asset_url }}" ></script>
   {%- endif -%}
