@@ -77,7 +77,7 @@
     "custom_quantity_breaks": true,
     "dbtfy_automatic_geolocation": false,
     "dbtfy_back_in_stock": true,
-    "dbtfy_cart_countdown": true,
+    "dbtfy_cart_countdown": false,
     "dbtfy_cart_favicon": false,
     "dbtfy_cart_discount": true,
     "dbtfy_collection_addtocart": false,
@@ -535,7 +535,7 @@
               "announcement_text": "<p>Livraison gratuite plus de 59 CHF<\/p>",
               "icon_selector": "truck",
               "announcement_counter": "",
-              "announcemen_link": "",
+              "announcement_link": "",
               "announcement_end_text": ""
             }
           },
@@ -545,7 +545,7 @@
               "announcement_text": "<p>Retour et échanges gratuits<\/p>",
               "icon_selector": "return",
               "announcement_counter": "",
-              "announcemen_link": "",
+              "announcement_link": "",
               "announcement_end_text": ""
             }
           },
@@ -555,7 +555,7 @@
               "announcement_text": "<p>Politique de retours sous 14 jours<\/p>",
               "icon_selector": "checkmark",
               "announcement_counter": "",
-              "announcemen_link": "",
+              "announcement_link": "",
               "announcement_end_text": ""
             }
           },
@@ -565,7 +565,7 @@
               "announcement_text": "<p>Service professionnel<\/p>",
               "icon_selector": "star",
               "announcement_counter": "",
-              "announcemen_link": "",
+              "announcement_link": "",
               "announcement_end_text": ""
             }
           }
@@ -1497,7 +1497,7 @@
               "dbtfy_faq_page_open": false,
               "dbtfy_faq_page_icon": "",
               "title": "Comment prendre soin de mes produits Anodyne® ?",
-              "text": "<p>Le Posture Shirt™, le soutien-gorge brassière AlignMe InterActive Bra et les leggings peuvent être lavés en machine à 30 degrés maximum, mais pour une durée de vie plus longue des produits, nous vous recommandons plutôt de les laver à la main. N'utilisez JAMAIS d'assouplissant, car il détruit le traitement spécial du tissu qui permet aux produits d'évacuer la transpiration. N'utilisez JAMAIS de sèche-linge car cela endommagerait le vêtement. SpinalQ Pro, MyLign Pro et les autres produits doivent être lavés à la main et séchés à l'air libre. Heureusement, ces produits sèchent rapidement une fois suspendus.<\/p>"
+              "text": "<p>Pour une durée de vie plus longue de vos produits, nous vous recommandons de laver à la main Posture Shirt™, AlignMe InterActive Bra et les leggings. N'utilisez JAMAIS d'assouplissant, car il détruit le traitement qui permet aux produits d'absorber la transpiration. N'utilisez JAMAIS de sèche-linge car cela endommagerait le vêtement. SpinalQ Pro et MyLign Pro doivent être lavés à la main et séchés à l'air libre. Heureusement, les produits sèchent rapidement lorsqu'ils sont suspendus librement pendant la nuit.<\/p>"
             }
           },
           "535bddc1-f4fb-45da-8f9c-4d7b3d9a375f": {
