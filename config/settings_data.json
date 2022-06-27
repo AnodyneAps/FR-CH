@@ -30,7 +30,7 @@
     "browsing_link": "shopify:\/\/collections\/tous-les-produits",
     "zindex_drawer": "999",
     "cart_notes_enable": false,
-    "color_announcement_bg": "#f48400",
+    "color_announcement_bg": "#252525",
     "color_nav_text": "#252525",
     "color_default": "#f7f7f7",
     "color_headings": "#252525",
@@ -591,7 +591,7 @@
         "settings": {
           "main_menu_link_list": "main-menu",
           "navigation_type": "right",
-          "header_font_size": 13,
+          "header_font_size": 12,
           "logo_link": true,
           "default_logo": "shopify:\/\/shop_images\/Anodyne_logo_default_medium_bff698b5-f9ca-49ba-834e-0df5d98fb4b1.png",
           "inverted_logo": "shopify:\/\/shop_images\/Anodyne_logo_default_medium_bff698b5-f9ca-49ba-834e-0df5d98fb4b1.png",
@@ -738,7 +738,7 @@
         "settings": {
           "show_social_media": false,
           "social_title": "Follow-us on social media!",
-          "show_payment_icons": true,
+          "show_payment_icons": false,
           "show_shopify_footer": false,
           "show_debutify_footer": false,
           "custom_credential": "<p>Anodyne GmbH, Bahnstrasse 25, 8603 Schwerzenbach, Suisse (Pas de vente à partir de cette adresse). UID: CHE-280.781.291 MwSt.<\/p><p><\/p>"
