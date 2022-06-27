@@ -30,7 +30,7 @@
     "browsing_link": "shopify:\/\/collections\/tous-les-produits",
     "zindex_drawer": "999",
     "cart_notes_enable": false,
-    "color_announcement_bg": "#252525",
+    "color_announcement_bg": "#545353",
     "color_nav_text": "#252525",
     "color_default": "#f7f7f7",
     "color_headings": "#252525",
@@ -532,8 +532,8 @@
           "announcement-0": {
             "type": "message",
             "settings": {
-              "announcement_text": "<p>Livraison gratuite plus de 59 CHF<\/p>",
-              "icon_selector": "truck",
+              "announcement_text": "<p>Soldes d'été ! Économisez jusqu'à <strong>60 %<\/strong><\/p>",
+              "icon_selector": "smily",
               "announcement_counter": "",
               "announcement_link": "",
               "announcement_end_text": ""
@@ -541,6 +541,7 @@
           },
           "d5b332bb-6716-425f-8f51-859ca017debc": {
             "type": "message",
+            "disabled": true,
             "settings": {
               "announcement_text": "<p>Retour et échanges gratuits<\/p>",
               "icon_selector": "return",
@@ -551,6 +552,7 @@
           },
           "bdc471d6-5e63-4a0e-838d-9dfb2e643316": {
             "type": "message",
+            "disabled": true,
             "settings": {
               "announcement_text": "<p>Politique de retours sous 14 jours<\/p>",
               "icon_selector": "checkmark",
@@ -561,6 +563,7 @@
           },
           "e904c88f-088b-4ec5-9666-a564e0668b19": {
             "type": "message",
+            "disabled": true,
             "settings": {
               "announcement_text": "<p>Service professionnel<\/p>",
               "icon_selector": "star",
@@ -741,7 +744,9 @@
           "show_payment_icons": false,
           "show_shopify_footer": false,
           "show_debutify_footer": false,
-          "custom_credential": "<p>Anodyne GmbH, Bahnstrasse 25, 8603 Schwerzenbach, Suisse (Pas de vente à partir de cette adresse). UID: CHE-280.781.291 MwSt.<\/p><p><\/p>"
+          "custom_credential": "<p>Anodyne GmbH, Bahnstrasse 25, 8603 Schwerzenbach, Suisse (Pas de vente à partir de cette adresse). UID: CHE-280.781.291 MwSt.<\/p><p><\/p>",
+          "bottom_counter_text": "Nous envoyons votre colis en",
+          "show_bottom_counter": true
         }
       },
       "product-template": {
